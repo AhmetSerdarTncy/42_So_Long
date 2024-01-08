@@ -59,7 +59,7 @@ Proje başarıyla derlendikten sonra aşağıdaki komutları kullanarak program�
 
 #### Ekran Görüntüleri
 
-![Ekran Görüntüsü 1]((https://r.resimlink.com/4y5HP_rgKT.png))
+![Ekran Görüntüsü 1](images/Gamepresentation.png)
 *Ekran Görüntüsü Açıklaması 1*
 
 ![Ekran Görüntüsü 2](link_to_screenshot2)
