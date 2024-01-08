@@ -2,7 +2,8 @@ Elbette, işte projeniz için hem İngilizce hem de Türkçe olarak bir README d
 
 ### 42_So_Long
 
-![Banner](https://r.resimlink.com/4y5HP_rgKT.png)
+![Banner]
+[So_Long(Among Us)](https://r.resimlink.com/4y5HP_rgKT.png)
 
 Bu proje, Among Us adlı oyunun esinlenerek C dili kullanılarak geliştirilmiştir. Projede, Mlx görüntü işleme kütüphanesi kullanılmıştır.
 
