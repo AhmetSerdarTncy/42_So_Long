@@ -68,7 +68,7 @@ Proje başarıyla derlendikten sonra aşağıdaki komutları kullanarak program�
 
 #### Katılımcılar
 
-- [Ahmet Serdar Tanıcı](https://github.com/AhmetSerdarTncy)
+- [Ahmet Serdar TUNÇAY](https://github.com/AhmetSerdarTncy)
 
 ---
 
