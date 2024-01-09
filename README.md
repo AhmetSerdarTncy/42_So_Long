@@ -56,10 +56,10 @@ Proje başarıyla derlendikten sonra aşağıdaki komutları kullanarak program�
 #### Ekran Görüntüleri
 
 ![Ekran Görüntüsü 2](images/SoLongHowToCompile.png)
-*How To Compile* *Nasıl Derlenir*
+*How To Compile* *----* *Nasıl Derlenir*
 
 ![Ekran Görüntüsü 1](images/Gamepresentation.png)
-*How to play* *Nasıl Oynanır*
+*How to play* *----* *Nasıl Oynanır*
 
 ---
 
