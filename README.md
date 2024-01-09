@@ -1,5 +1,3 @@
-Elbette, işte projeniz için hem İngilizce hem de Türkçe olarak bir README dosyası:
-
 ### 42_So_Long
 
 ![Banner](images/So_LongBanner.png)
