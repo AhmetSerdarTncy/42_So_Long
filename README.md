@@ -55,11 +55,11 @@ Proje başarıyla derlendikten sonra aşağıdaki komutları kullanarak program�
 
 #### Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](images/Gamepresentation.png)
-*Oynanış Ekranı*
-
 ![Ekran Görüntüsü 2](link_to_screenshot2)
 *Ekran Görüntüsü Açıklaması 2*
+
+![Ekran Görüntüsü 1](images/Gamepresentation.png)
+*Oynanış Ekranı*
 
 ---
 
