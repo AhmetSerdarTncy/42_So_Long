@@ -14,7 +14,6 @@ Bu proje, Among Us adlı oyunun esinlenerek C dili kullanılarak geliştirilmiş
 4. [Kullanım](#kullanım)
 5. [Ekran Görüntüleri](#ekran-görüntüleri)
 6. [Katılımcılar](#katılımcılar)
-7. [Lisans](#lisans)
 
 ---
 
