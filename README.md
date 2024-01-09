@@ -69,7 +69,3 @@ Proje başarıyla derlendikten sonra aşağıdaki komutları kullanarak program�
 - [Ahmet Serdar TUNÇAY](https://github.com/AhmetSerdarTncy)
 
 ---
-
-#### Lisans
-
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için [Lisans Dosyası](LICENSE)'nı inceleyebilirsiniz.
